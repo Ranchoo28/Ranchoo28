@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
+  <h1 style="color:purple;">Hello World</h1>
 <br> 
 <a href="https://www.w3schools.com/java/">
 <img  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="80" height="80"> 
