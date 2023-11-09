@@ -15,11 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+<!DOCTYPE html>
+<html>
 <body>
-  <p style="color:red;">Red paragraph text</p>
+
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+
 </body>
+</html>
+
+
 <br> 
 <a href="https://www.w3schools.com/java/">
 <img  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="80" height="80"> 
