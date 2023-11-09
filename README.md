@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="100" height="100">
+My language and tools:
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="80" height="80">
 
