@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-  <h1 style="color:purple;">Hello World</h1>
+
+
+<body>
+  <p style="color:red;">Red paragraph text</p>
+</body>
 <br> 
 <a href="https://www.w3schools.com/java/">
 <img  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="80" height="80"> 
