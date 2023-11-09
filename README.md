@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![#f03c15](ciao)
+[#f03c15](ciao)
 
 <br> 
 <a href="https://www.w3schools.com/java/">
