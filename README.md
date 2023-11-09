@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<body>
-<p style="color:rgba(255,0,0,0.5);">Red paragraph text</p>
-</body>
-
 <br> 
 <a href="https://www.w3schools.com/java/">
 <img  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="80" height="80"> 
