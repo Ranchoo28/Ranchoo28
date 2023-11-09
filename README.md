@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 </a>
 
 
-
+<body>
+<p style="color:rgba(255,0,0,0.5);">Red paragraph text</p>
+</body>
