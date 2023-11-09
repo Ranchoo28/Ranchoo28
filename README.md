@@ -15,18 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html>
 <body>
-
-<p>I am normal</p>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
-
+<p style="color:rgba(255,0,0,0.5);">Red paragraph text</p>
 </body>
-</html>
-
 
 <br> 
 <a href="https://www.w3schools.com/java/">
@@ -34,6 +25,4 @@ Here are some ideas to get you started:
 </a>
 
 
-<body>
-<p style="color:rgba(255,0,0,0.5);">Red paragraph text</p>
-</body>
+
