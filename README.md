@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Java logo](https://www.pngitem.com/middle/iiTwhJT_java-java-logo-black-png-transparent-png)
+![Java logo](https://www.pngitem.com/middle/iiTwhJT_java-java-logo-black-png-transparent-png/)
