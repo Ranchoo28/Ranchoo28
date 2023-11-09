@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color:blue;"> My language and tools: </span>
+<div style="color:blue;"> My language and tools: </div>
 <br> 
 <a href="https://www.w3schools.com/java/">
 <img  src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Logo di Java" width="80" height="80"> 
