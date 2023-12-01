@@ -1,6 +1,6 @@
 ### Hi there, i'm Saverio👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranchoo28&show_icons=true&theme=merko)
 
 <!--
 **Ranchoo28/Ranchoo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
