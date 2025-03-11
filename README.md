@@ -5,7 +5,7 @@
 <hr>
 <h3 align="left">My stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranchoo28&layout=compact&theme=merko)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranchoo28&layout=compact&theme=merko) -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranchoo28&show_icons=true&theme=merko)
